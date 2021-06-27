@@ -33,7 +33,7 @@ The area of approximate multiplier lacks the comprehensive library of state-of-t
 | [Efficient Mitchell’s Approximate Log Multipliers for Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8532287)       |    MITCHEL_TRUNC     | :heavy_check_mark:         |     :heavy_check_mark:              |
 | [An Improved Logarithmic Multiplier for Energy-Efficient Neural Computing](https://ieeexplore.ieee.org/abstract/document/9086744)       |    ILM_AA     | :heavy_check_mark:         |     :heavy_multiplication_x:              |
 | [Design and Analysis of Energy-Efficient Dynamic Range Approximate Logarithmic Multipliers for Machine Learning](https://ieeexplore.ieee.org/abstract/document/9126271)       |    DRALM     | :heavy_check_mark:         |     :heavy_check_mark:              |
-| [A Two-Stage Operand Trimming Approximate Logarithmic Multiplier](https://ieeexplore.ieee.org/document/9393561)       |    DRALM     | :heavy_check_mark:         |     :heavy_check_mark:              |
+| [A Two-Stage Operand Trimming Approximate Logarithmic Multiplier](https://ieeexplore.ieee.org/document/9393561)       |    TL     | :heavy_check_mark:         |     :heavy_check_mark:              |
 
 
 
