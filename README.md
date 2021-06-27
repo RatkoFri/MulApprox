@@ -20,7 +20,7 @@ The area of approximate multiplier lacks the comprehensive library of state-of-t
 ## Multipliers 
 
 | Approximate multiplier | Acronym | Verilog | Behaviour model |
-|------------------------|---------|---------|-----------------|
-| [Approximate Hybrid High Radix Encoding for Energy-Efficient Inexact Multipliers] (https://ieeexplore.ieee.org/document/8105832)               | RAD1024         |:heavy_check_mark:         |     :heavy_check_mark:            |
+|:----------------------:|:-------:|:-------:|:---------------:|
+| [Approximate Hybrid High Radix Encoding for Energy-Efficient Inexact Multipliers](https://ieeexplore.ieee.org/document/8105832)               | RAD1024         |:heavy_check_mark:         |     :heavy_check_mark:            |
 |                        |         |         |                 |
 |                        |         |         |                 |
