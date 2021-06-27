@@ -7,3 +7,12 @@ The area of approximate multiplier lacks the comprehensive library of state-of-t
 
 ## Code organisation 
 
+- verilog/ -> Verilog source files for approximate multipliers grouped according to their class.
+
+- behaviour_models/ -> C source files that describe the functionality of approximate multipliers.
+
+- utils/OpenROAD/ -> Used constraints and configuration in OpenROAD synthesis flow 
+
+- utils/ErrorAssessment/ -> C source files that calculate NMED and MRE
+
+- utils/Caffe_src/ -> Cuda files for implementing convolutional and fully connected layers with approximate multiplication in the Caffe framework
