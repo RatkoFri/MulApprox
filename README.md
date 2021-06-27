@@ -21,7 +21,7 @@ The area of approximate multiplier lacks the comprehensive library of state-of-t
 
 | Approximate multiplier | Acronym | Verilog | Behaviour model |
 |:----------------------:|:-------:|:-------:|:---------------:|
-| [Design of Approximate Radix-4 Booth Multipliers for Error-Tolerant
-Computing](https://ieeexplore.ieee.org/document/7862783)                       |    R4ABM     |    :heavy_check_mark:     |        :heavy_check_mark:         |
-| [Approximate Hybrid High Radix Encoding for Energy-Efficient Inexact Multipliers](https://ieeexplore.ieee.org/document/8105832)               | RAD1024         |
+| [Design of Approximate Radix-4 Booth Multipliers for Error-TolerantComputing](https://ieeexplore.ieee.org/document/7862783)                       |    R4ABM     |    :heavy_check_mark:     |        :heavy_check_mark:         |
+| [Approximate Hybrid High Radix Encoding for Energy-Efficient Inexact Multipliers](https://ieeexplore.ieee.org/document/8105832)               | RAD1024         | :heavy_check_mark:     |        :heavy_check_mark:  |
 | [Hybrid Low Radix Encoding-Based Approximate Booth Multipliers](https://ieeexplore.ieee.org/abstract/document/9003227)       |    HLR_BM     | :heavy_check_mark:         |     :heavy_check_mark:              |
+
