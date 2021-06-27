@@ -16,3 +16,11 @@ The area of approximate multiplier lacks the comprehensive library of state-of-t
 - utils/ErrorAssessment/ -> C source files that calculate NMED and MRE
 
 - utils/Caffe_src/ -> Cuda files for implementing convolutional and fully connected layers with approximate multiplication in the Caffe framework
+
+## Multipliers 
+
+| Approximate multiplier | Acronym | Verilog | Behaviour model |
+|------------------------|---------|---------|-----------------|
+|                        |         |         |                 |
+|                        |         |         |                 |
+|                        |         |         |                 |
